@@ -43,7 +43,7 @@ The dataset used is `HR-Employee-Attrition.csv`, which contains information abou
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/hr-employee-attrition.git
+   git clone https://github.com/Syedismail412/hr-employee-attrition.git
    cd hr-employee-attrition
 ##README_2 HEALTH CARE APPOINTMENT NO-SHOW PREDECTION
 # 🏥 Medical Appointment No-Show Analysis
@@ -98,6 +98,6 @@ The target variable is **`No-show`**, which indicates whether a patient showed u
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/no-show-appointments.git
+   git clone https://github.com/Syedismail412/no-show-appointments.git
    cd no-show-appointments
 
