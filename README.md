@@ -1,5 +1,4 @@
-# final-projects-
-#readme-1
+
 # HR Employee Attrition Analysis
 
 This project performs an exploratory data analysis (EDA) and builds a machine learning model to understand and predict employee attrition using the **HR Employee Attrition** dataset.
